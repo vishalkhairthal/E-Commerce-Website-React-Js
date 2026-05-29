@@ -23,7 +23,7 @@ A modern Shopify-inspired e-commerce website built using React JS.
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+
 
 ## 📦 Installation
 
