@@ -22,6 +22,7 @@ A modern Shopify-inspired e-commerce website built using React JS.
 - Vite
 
 ## 📸 Screenshots
+![Home Page](frontrend/src/screenshots/Home.png)
 
 
 
